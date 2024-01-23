@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Natthakit Fongsuwan
 ===========================================================================================================================================
 
-I am a 2nd year student at university. Rajamangala Technology Srivijaya Faculty of Engineering Computer Engineering
+I am a 3nd year student at university. Rajamangala Technology Srivijaya Faculty of Engineering Computer Engineering
 
 * 🌍  I'm based in Songkhla Thailand
 * ✉️  You can contact me at [kimnk555@gmail.com](mailto:kimnk555@gmail.com)
