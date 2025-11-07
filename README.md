@@ -5,7 +5,7 @@ I am a 4th year student at university. Rajamangala Technology Srivijaya Faculty 
 
 * 🌍  I'm based in Songkhla Thailand
 * ✉️  You can contact me at [kimnk555@gmail.com](mailto:kimnk555@gmail.com)
-* 🧠  I'm learning Angular | React | DiscordJS | HomeAssistant | IOT | Network
+* 🧠  I'm learning React | DiscordJS | HomeAssistant | IOT | Network
 
 ### Skills
 
